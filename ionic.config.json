@@ -1,7 +1,8 @@
 {
   "name": "rest-album",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
